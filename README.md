@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-**今天的自己比昨天强！**
 
 ❤️ Uses: golang
 
@@ -15,3 +14,5 @@
 💬 Feel free to ask anything
 
 Contact: 📧young_em@foxmail.com
+
+💌My motto: **每天进步一点，今天的自己比昨天强**
