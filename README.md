@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="name.svg" alt="YuYoung" />
+</h1>
+
 ### Hi there 👋
 
 
