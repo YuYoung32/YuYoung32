@@ -7,13 +7,9 @@
 
 ❤️ Uses: golang
 
-😍 Likes: cool AI application
+😍 Likes: cool and useful AI application
 
-🌱 Learning golang and web-dep
-
-👯 Collaborating with [HDUHelp](https://github.com/hduhelp)
-
-🤔 I’m looking for help with getting a internship
+🌱 Learning golang and c++ for web-dep
 
 💬 Feel free to ask anything
 
