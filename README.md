@@ -5,14 +5,10 @@
 ### Hi there 👋
 
 
-❤️ Uses: golang
+❤️ Uses: golang and c++
 
-😍 Likes: cool and useful AI application
-
-🌱 Learning golang and c++ for web-dep
+🌱 Stay hungry, stay foolish.
 
 💬 Feel free to ask anything
 
 Contact: 📧young_em@foxmail.com
-
-💌My motto: **每天进步一点，今天的自己比昨天强**
